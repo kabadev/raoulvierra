@@ -174,8 +174,8 @@ const Profile = ({ data }) => {
 				</div>
 
 				<div className="flex items-center justify-center mt-4">
-					<a
-						href=""
+					<a target="_blank"
+						href="https://drive.google.com/file/d/1rNOH4g6-k3lGfHfbaudjXpaUXDTR48k-/view?pli=1"
 						className="btn_download p-3 px-6 rounded-[50px] text-white"
 					>
 						Download CV
